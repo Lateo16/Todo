@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Todoish</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="title">Todoish</string>
+    <string name="edit">Edit</string>
+    <string name="todo">TextView</string>
+    <string name="enter_new_firstname">enter new first name</string>
+    <string name="enter_new_lastname">enter new last name</string>
+    <string name="enter_new_telephone">enter new telephone</string>
+    <string name="enter_firstname">enter first name</string>
+    <string name="enter_lastname">enter last name</string>
+    <string name="enter_telephone">enter telephone</string>
+    <string name="add">add</string>
+    <string name="enter_new_todo">enter todo</string>
+    <string name="submit">click to add a new to do</string>
+    <string name="delete">Delete</string>
+</resources>

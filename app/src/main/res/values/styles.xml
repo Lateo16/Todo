@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SignInButtonTheme" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@color/colorLightGreen</item>
+    </style>
+
+    <style name="TextTheme" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="EditButtonTheme" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:textSize">8sp</item>
+        <item name="android:background">@color/colorLightGreen</item>
+    </style>
+
+    <style name="TodoTextTheme" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">20sp</item>
+        <item name="android:color">#000000</item>
+    </style>
+</resources>
